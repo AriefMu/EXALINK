@@ -77,6 +77,9 @@ composer update
 ## Import Database
 database ada dalam direktori nama file exalink.sql
 
+## Login
+login menggunakan akun yang tersedia pada akun.txt
+
 ![Screenshot (359)](https://github.com/AriefMu/EXALINK/assets/115084366/06dd32b9-fe67-4513-b0f4-d1143514a187)
 
 ![Screenshot (360)](https://github.com/AriefMu/EXALINK/assets/115084366/9178d91a-72ed-43e6-b313-a7889da4c7a9)
