@@ -51,6 +51,7 @@
                 <div class="text-center">
                   @if (Auth::user()->imgprofil == true)
                   <img src={{Storage::url('public/').Auth::user()->imgprofil }} class="rounded-circle mb-1 mt-3" style="width: 85px;"alt="Avatar" />
+                     
                   @else
                   <img src='https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg' class="rounded-circle mb-1 mt-3" style="width: 85px;"alt="Avatar" />   
                   
