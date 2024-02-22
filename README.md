@@ -62,3 +62,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Installation
+```bash
+git clone https://github.com/AriefMu/EXALINK.git
+```
+```bash
+cd multiple_system_crud
+```
+```bash
+composer update
+```
+## Import Database
+database ada dalam direktori nama file exalink.sql
